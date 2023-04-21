@@ -24,7 +24,6 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/salomao-farina-a289b413/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@sfarinas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/sfarinass" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/salomaofarina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/bGDFY4BEVa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -34,8 +33,8 @@
 </div>
   
   <div align="center">
-<br><p align="centre"><b>Nomades Passantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sfarinas}/count.svg?text_color=0293E8" /></p> 
+<br><p align="centre"><b>Visitantes 💝</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuhD1}/count.svg?text_color=0293E8" /></p> 
 <br>
 </div>
 
