@@ -29,7 +29,7 @@
 
 <div align="center"> 
   <a align="centre" href="https://www.linkedin.com/in/lucas-damasceno-943198207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a align="centre" href="https://www.instagram.com/Lucas.dms_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a align="centre" href="https://www.instagram.com/lucas.dmc_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div> 
  <div align="center">
