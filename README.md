@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Mundo!;Me+chamo+Lucas+Damasceno;Tenho+23+anos;Utilizo+as+seguintes+tecnologias:;HTML,+CSS,+Javascript,+React.js;Entre+outras!+:%29)](https://git.io/typing-svg)
 <div align="center">
   <a href="https://github.com/LuhD1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuhD1&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuhD1&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuhD1&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuhD1&show_icons=true&theme=cobalt"/>
 </div>
 <div>
   ‎ ‎ ‎ ‎ ‎ 
